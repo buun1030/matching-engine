@@ -1,6 +1,5 @@
-# matching engine
-electricity market matching engine
-just for testing use case
+# Matching Engine
+This electricity market matching engine is just for testing use cases.
 
 Jupyter version
   - only zone1 matching
